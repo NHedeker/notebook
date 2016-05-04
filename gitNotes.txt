@@ -56,3 +56,7 @@ git la
 #add a remote called origin (key) that refers to a URL (value)
 #allows me to push (and pull) commits to and from the remote
 git remote add origin URL
+
+#fetches new commits from the remote branch and merges them into the local
+#    master branch
+~/D/P/W/notebook master ✔ git pull [REMOTE] [BRANCH]
